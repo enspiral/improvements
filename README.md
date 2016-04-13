@@ -35,13 +35,12 @@ Until everyone gets a little bit tired and it's time for a nap and a serious dis
 We share stories and learn from each other about what was, what could have been and what might be next time.
 
 ### Done
-Well, that was all terribly exciting. An adventure that will be etched in the tickets comment thread forever (or until the internet shuts down).
+Well, that was all terribly exciting! An adventure that will be etched forever in the ticket's comment thread (or until the internet shuts down).
 
 ##Keeping it fresh
 
 Each two weeks the Catalysts will sweep the improvements list and apply the following filters
 * Any issue in the backlog that is older than three months and not moving forward is closed
 * Any issue that has been in scoping for more than a month is unassigned and moved to the backlog
-* Any issue that is ready and hasn't been picked up for a month is moved to the backlog
+* Any issue that has been ready for more than a month and not moved is sent to the backlog
 * Any issue that is in progress will be prompted for a status update, if they didn't respond to the last prompt then it is moved to the backlog
-* Any issue in review will be commented on and closed
