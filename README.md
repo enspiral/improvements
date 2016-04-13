@@ -5,7 +5,7 @@ This is a place for tracking improvements at Enspiral.
 There are two ways of interacting with the data
 
 * The [raw github interface](https://github.com/enspiral/improvements/issues) is the best place for advanced searches. Checkout the [advanced github documentation](https://help.github.com/articles/searching-issues/) for search tips.
-* [Waffle](https://waffle.io/enspiral/improvements) is the best place to get an overview of improvements in progress
+* [Waffle](https://waffle.io/enspiral/improvements) is for all those kan ban / trello addicts out there who love their columns and a good way to see what's current.
 
 Github issues are like a wiki, which means everyone can create or edit issues or change their status. Be careful on the Waffle board as moving a card will update its status.
 
