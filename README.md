@@ -2,14 +2,35 @@
 
 This is a place for tracking improvements at Enspiral. The lifecycle of an improvement is
 
+#Improvement lifecycle
+
 ### Backlog
 This is where an improvement starts. It could be a question, a problem or an idea to make things better. It could bea quick note or a lengthy treatise.
 
 ### Scoping
-When a ticket moves to scoping it must have someone assigned to it. This person is a heroic individual who has the energy and vision to understand the improvement in depth and takes responsibility for finding a way forward. They do not have to commit to completing the improvement, just scoping and defining it. Once they are satisfied the improvement is scoped it moves to Ready.
+Occasionally a heroic individual will emerge from the fog and take responsibility for an improvement. An individual with the energy and vision to bring clarity to chaos, the wisdom to seek advice from their peers and the silvery tongue of a poet to make long sentences short.
 
-Once a month the Catalysts sweep the 
+They do not commit to doing the work but they do clarify and scope the improvement so that others can. Once everything is clear the scoper can gaze boldly towards the horizon, utter a meaningful "my work here is done", and stride off into the sunset. The ticket moves to Ready.
 
+### Ready
+Like a puppy locked up inside the improvements languish in the ready column just waiting for someone to come home and play with them. All they really want is be outside running and jumping and rolling in the grass. Or some food, any food, but especially those sweet cobudget dollars. 
+
+But instead they are sitting here in a cold and dark concrete bunker. Alone and waiting for someone to love them, their big saucer eyes gazing falornely at all the strangers on the internet who give them the once over and think "not today". 
+
+Until that someone special arrives.
+
+### In Progress
+So much wow! Fireworks, magic, "oh my god this is really happening". Idea meets team. Documents are written, money moves, Loomio decisions fly and circles of hands raise towards the heavens with fingers sparkling. Ones turn to zeroes and zeroes turn to ones in their billions. People even talk to each other.
+
+Until everyone gets a little bit tired and it's time for a nap and a serious discussion about how it all went.
+
+### Review
+We share stories and learn from each other about what was, what could have been and what might be next time.
+
+### Done
+Well, that was all terribly exciting. An adventure that will be etched in the tickets comment thread forever (or until the internet shuts down).
+
+----
 There are two ways of interacting with the data
 
 * The [raw github interface](https://github.com/enspiral/improvements/issues) is the best place for advanced searches. Checkout the [advanced github documentation](https://help.github.com/articles/searching-issues/) for search tips.
