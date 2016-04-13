@@ -12,7 +12,7 @@ Github issues are like a wiki, which means everyone can create or edit issues or
 ##Improvement lifecycle
 
 ### Backlog
-This is where an improvement starts. It could be a question, a problem or an idea to make things better. It could bea quick note or a lengthy treatise.
+This is where an improvement starts. It could be a question, a problem or an idea to make things better. It could be a quick note or a lengthy treatise.
 
 ### Scoping
 Occasionally a heroic individual will emerge from the fog and take responsibility for an improvement. An individual with the energy and vision to bring clarity to chaos, the wisdom to seek advice from their peers and the silvery tongue of a poet to make long sentences short.
