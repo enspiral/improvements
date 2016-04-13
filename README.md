@@ -1,8 +1,15 @@
 # Improvements
 
-This is a place for tracking improvements at Enspiral. The lifecycle of an improvement is
+This is a place for tracking improvements at Enspiral.
 
-#Improvement lifecycle
+There are two ways of interacting with the data
+
+* The [raw github interface](https://github.com/enspiral/improvements/issues) is the best place for advanced searches. Checkout the [advanced github documentation](https://help.github.com/articles/searching-issues/) for search tips.
+* [Waffle](https://waffle.io/enspiral/improvements) is the best place to get an overview of improvements in progress
+
+Github issues are like a wiki, which means everyone can create or edit issues or change their status. Be careful on the Waffle board as moving a card will update its status.
+
+##Improvement lifecycle
 
 ### Backlog
 This is where an improvement starts. It could be a question, a problem or an idea to make things better. It could bea quick note or a lengthy treatise.
@@ -29,14 +36,6 @@ We share stories and learn from each other about what was, what could have been 
 
 ### Done
 Well, that was all terribly exciting. An adventure that will be etched in the tickets comment thread forever (or until the internet shuts down).
-
-----
-There are two ways of interacting with the data
-
-* The [raw github interface](https://github.com/enspiral/improvements/issues) is the best place for advanced searches. Checkout the [advanced github documentation](https://help.github.com/articles/searching-issues/) for search tips.
-* [Waffle](https://waffle.io/enspiral/improvements) is the best place to get an overview of improvements in progress
-
-Github issues are like a wiki, which means everyone can create or edit issues or change their status. Be careful on the Waffle board as moving a card will update its status.
 
 ##Keeping it fresh
 
