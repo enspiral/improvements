@@ -1,8 +1,6 @@
 # Improvements
 
-This is a place for tracking improvements at Enspiral.
-
-There are two ways of interacting with the data
+This is a place for tracking improvements at Enspiral, there are two ways of interacting with the data
 
 #### [Click here for the simple view](https://waffle.io/enspiral/improvements) 
 This uses waffle (you can login with your github details) and displays the tickets in a trello / kan ban type format.
