@@ -40,9 +40,9 @@ Well, that was all terribly exciting! An adventure that will be etched forever i
 
 ##Keeping it fresh
 
-Each two weeks the Catalysts will sweep the improvements list and apply the following filters
-* Any issue in the backlog that is older than three months and not moving forward is closed
-* Any issue that has been in scoping for more than a month is unassigned and moved to the backlog
-* Any issue that has been ready for more than a month and not moved is sent to the backlog
-* Any issue that is in progress will be prompted for a status update, if they didn't respond to the last prompt then it is moved to the backlog
+Each two weeks we sweep the improvements list and apply the following filters
+* We close issues in the `backlog` that are older than three months with no activity
+* We unassign and shift issues that have been in `scoping` for more than a month to the `backlog`
+* We shift issues that have been in `ready` for more than a month to the `backlog`
+* We prompt people assigned to `in progress` issues for a status update. If you don't respond by the next sweep we move it to the `backlog`
 
