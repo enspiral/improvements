@@ -40,7 +40,7 @@ Well, that was all terribly exciting! An adventure that will be etched forever i
 
 ##Keeping it fresh
 
-Each two weeks we sweep the improvements list and apply the following filters
+Every two weeks we sweep the improvements list and apply the following filters:
 * We close issues in the `backlog` that are older than three months with no activity
 * We unassign and shift issues that have been in `scoping` for more than a month to the `backlog`
 * We shift issues that have been in `ready` for more than a month to the `backlog`
