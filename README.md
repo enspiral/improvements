@@ -6,6 +6,8 @@ This is a place for tracking improvements at Enspiral, there are two ways of int
 This uses waffle (you can login with your github details) and displays the tickets in a trello / kan ban type format.
 
 #### [Click here for the advanced view](https://github.com/enspiral/improvements/issues)
+[without venture & proto-venture tickets](https://github.com/enspiral/improvements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+-label%3Aventure+-label%3Aproto-venture)
+
 Which includes fancy search and sorting features - checkout the [advanced github documentation](https://help.github.com/articles/searching-issues/) for search tips.
 
 Github issues are like a wiki, which means everyone can create or edit issues or change their status. Be careful on the Waffle board as moving a card will update its status.
