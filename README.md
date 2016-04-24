@@ -46,3 +46,9 @@ Every two weeks we sweep the improvements list and apply the following filters:
 * We shift issues that have been in `ready` for more than a month to the `backlog`
 * We prompt people assigned to `in progress` issues for a status update. If you don't respond by the next sweep we move it to the `backlog`
 
+## Tags
+Enspiral ventures and proto ventures are encouraged to share strategic projects and improvements with the wider network and receive their own tags. Please use the venture and proto-venture tags for those tickets so we can easily filter them. Also be aware of noise and try to keep the minutia abstracted away in checklists on bigger tickets or other systems.
+
+Feel free to use the proto-venture tag for tickets relating to launching a new proto-venture but you don't get a named tag until you officially become one.
+
+
