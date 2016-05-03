@@ -12,6 +12,7 @@ Which includes fancy search and sorting features - checkout the [advanced github
 Github issues are like a wiki, which means everyone can create or edit issues or change their status. Be careful on the Waffle board as moving a card will update its status.
 
 Quick Links:
+* [tickets needing help](https://waffle.io/enspiral/improvements?label=help%20wanted)
 * [without venture & proto-venture tickets](https://github.com/enspiral/improvements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+-label%3Aventure+-label%3Aproto-venture)
 * [recently updated](https://github.com/enspiral/improvements/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
