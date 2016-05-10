@@ -52,7 +52,7 @@ Every two weeks before the Enspiral demo we sweep the improvements list and appl
 * We unassign and shift issues that have been in [`scoping`](https://github.com/enspiral/improvements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Ascoping+sort%3Aupdated-asc) for more than a month to the `backlog`
 * We shift issues that have been in [`ready`](https://github.com/enspiral/improvements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aready+sort%3Aupdated-asc) for more than a month to the `backlog`
 * We prompt people assigned to [`in progress`](https://github.com/enspiral/improvements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22in+progress%22+sort%3Aupdated-asc) issues for a status update. If you don't respond by the next sweep we move it to the `backlog`
-* We share stories from any [`celebrate`](https://github.com/enspiral/improvements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22celebratew%22+sort%3Aupdated-asc) issues and then close them
+* We share stories from any [`celebrate`](https://github.com/enspiral/improvements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22celebrate%22+sort%3Aupdated-asc) issues and then close them
 
 ## Tags
 Enspiral ventures and proto ventures are encouraged to share strategic projects and improvements with the wider network and receive their own tags. Please use the venture and proto-venture tags for those tickets so we can easily filter them. Also be aware of noise and try to keep the minutia abstracted away in checklists on bigger tickets or other systems.
