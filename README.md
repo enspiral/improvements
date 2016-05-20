@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/enspiral/improvements.png?label=ready&title=Ready)](https://waffle.io/enspiral/improvements)
 # Improvements
 
 This is a place for tracking improvements at Enspiral, there are two ways of interacting with the data
