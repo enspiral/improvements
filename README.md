@@ -6,7 +6,7 @@
 
 This is a place for tracking improvements at Enspiral. Find out more in the handbook:
 
-http://handbook.enspiral.com/improvements.html
+https://handbook.enspiral.com/guides/improvements.html
 
 Quick Links:
 * [waffle view](http://improvements.enspiral.com)
